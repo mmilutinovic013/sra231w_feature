@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the sra231w_feature feature.
+ */
+
+include_once 'sra231w_feature.features.inc';
